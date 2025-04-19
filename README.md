@@ -5,10 +5,9 @@
 Me chamo Bruno Albuquerque, tenho 27 anos e sou natural de Alagoas. Concluí o curso de ensino superior de Desenvolvimento mobile. Sou apaixonado por tecnologia.
 <p align="left">
     
-    </a>
+      
+  
    
-      />
-    </a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
