@@ -9,8 +9,8 @@ Me chamo Bruno Albuquerque, tenho 27 anos e sou natural de Alagoas. Concluí o c
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="JAVA"
+    title="JAVA" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
