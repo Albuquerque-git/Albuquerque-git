@@ -6,15 +6,15 @@ Me chamo Bruno Albuquerque, tenho 27 anos e sou natural de Alagoas. Concluí o c
 
 
 ### 🤖 Linguagens e Tecnologias
-
 <img 
     align="left" 
-    alt="JAVA"
-    title="JAVA" 
+    alt="HTML"
+    title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
@@ -25,11 +25,11 @@ Me chamo Bruno Albuquerque, tenho 27 anos e sou natural de Alagoas. Concluí o c
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="JAVA"
+    title="JAVA" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"
 />
 <img 
     align="left" 
