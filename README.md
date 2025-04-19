@@ -13,7 +13,7 @@ Me chamo Bruno Albuquerque, tenho 27 anos e sou natural de Alagoas. Concluí o c
     title="JAVA" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"
 />
 <img 
     align="left" 
