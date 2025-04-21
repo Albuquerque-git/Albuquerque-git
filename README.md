@@ -61,6 +61,6 @@ Me chamo Bruno Albuquerque, tenho 27 anos e sou natural de Alagoas. Concluí o c
 <br/>
 <br/>
 
-### 📊 Estatísticas
+
 
 
